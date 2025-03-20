@@ -1,14 +1,14 @@
-👉 Language: C# • Python • MVC • ASP.Net • .NET Core • Azure • SQL • LINQ • WPF •
+👉 **Language:** C# • Python • MVC • ASP.Net • .NET Core • Azure • SQL • LINQ • WPF •
 WCF • VB • Terraform
 
-👉 Frontend & Web: HTML5 • CSS3 • JavaScript • TypeScript • jQuery • React • Angular •
+👉 **Frontend & Web:** HTML5 • CSS3 • JavaScript • TypeScript • jQuery • React • Angular •
 • Prisma
 
-👉 Databases: SQL Server • PostgreSQL • NoSQL • Database Design & Optimization
+👉 **Data:** SQL Server • PostgreSQL • NoSQL • Database Design & Optimization
 
-👉 Tools & Platforms: Docker • Azure DevOps • GitHub • Jenkins • SharePoint • IIS • RedHat
+👉 **Tools & Platforms:** Docker • Azure DevOps • GitHub • Jenkins • SharePoint • IIS • RedHat
 
-👉 Best Practices: SOLID Principles • Agile (Scrum/Kanban) • TDD • CI/CD
+👉 **Best Practices:** SOLID Principles • Agile (Scrum/Kanban) • TDD • CI/CD
 
 <!--
 **uerbzr/uerbzr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
