@@ -1,5 +1,4 @@
-👉 **Language:** C# • Python • MVC • ASP.Net • .NET Core • Azure • SQL • LINQ • WPF •
-WCF • VB • Terraform
+👉 **Language:** C# • Python • HTML • .NET Core • SQL • VB • Terraform
 
 👉 **Frontend & Web:** HTML5 • CSS3 • JavaScript • TypeScript • jQuery • React • Angular •
 • Prisma
